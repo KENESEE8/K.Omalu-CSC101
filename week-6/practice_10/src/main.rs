@@ -1,4 +1,4 @@
-fn main() {
+ fn main() {
     let a = 20;
     let b = 30;
 

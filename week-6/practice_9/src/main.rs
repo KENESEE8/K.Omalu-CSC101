@@ -1,4 +1,4 @@
-fn main() {
+                                                                  fn main() {
     let A: i32 = 10;
     let B: i32 = 20;
 
